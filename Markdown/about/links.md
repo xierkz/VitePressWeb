@@ -1,9 +1,0 @@
-# 相关链接
-+ [vitepress](https://vitepress.dev/)
-+ [nodejs](https://nodejs.org)
-+ [kimi](https://kimi.moonshot.cn)
-+ [github](https://github.com)
-+ [emoji](https://emojipedia.org)
-+ [JSPang](https://jspang.com/)
-+ [技术胖](https://space.bilibili.com/165659472)
-+ [待定](#)
